@@ -25,6 +25,7 @@ I like to push the boundaries of how we interact with software. Here are some of
 * **[Cosmos](https://space.atticusassociates.com/)** – Exploring Three.js with a bunch of physics/space.
 * **[Living Tree](https://nature.atticusassociates.com/)** – Another Three.js experiment.
 * **[Wordle Bot](https://github.com/AdityaPandey0901)** – Because sometimes the daily puzzle needs an algorithmic touch.
+![Run2](https://user-images.githubusercontent.com/17527776/194708195-a4a55cb2-f49c-4cec-a3db-db24cffa9abd.gif)
 
 ---
 
