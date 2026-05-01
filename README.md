@@ -21,10 +21,10 @@ I’m a developer and problem-solver with a background in **Physics & CS** and a
 
 I like to push the boundaries of how we interact with software. Here are some of my favorite side quests:
 
-* **[Pokemon Showdown Voice Controller]([https://github.com/yourusername/repo](https://github.com/AdityaPandey0901/PokemonShowdownVoice))** – Controlling showdown battles with just my voice.
+* **[Pokemon Showdown Voice Controller](https://github.com/AdityaPandey0901/PokemonShowdownVoice)** – Controlling showdown battles with just my voice.
 * **[Cosmos](https://space.atticusassociates.com/)** – Exploring Three.js with a bunch of physics/space.
 * **[Living Tree](https://nature.atticusassociates.com/)** – Another Three.js experiment.
-* **[Wordle Bot]([https://github.com/yourusername/repo](https://github.com/AdityaPandey0901))** – Because sometimes the daily puzzle needs an algorithmic touch.
+* **[Wordle Bot](https://github.com/AdityaPandey0901)** – Because sometimes the daily puzzle needs an algorithmic touch.
 
 ---
 
