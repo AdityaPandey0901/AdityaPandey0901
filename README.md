@@ -37,4 +37,4 @@ I like to push the boundaries of how we interact with software. Here are some of
 
 ### 📫 Let's Connect
 * **Website:** [www.addypandey.com](https://www.addypandey.com)
-* **LinkedIn:** [/in/adityapandey]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/aditya-pandey-0901/))
+* **LinkedIn:** [/in/adityapandey](https://www.linkedin.com/in/aditya-pandey-0901/)
