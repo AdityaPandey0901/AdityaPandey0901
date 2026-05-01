@@ -28,7 +28,7 @@ I like to push the boundaries of how we interact with software. Here are some of
   
 ---
 ### 🇼 Here's Worldle Bot incase you're bored
-<img src="https://user-images.githubusercontent.com/17527776/194708195-a4a55cb2-f49c-4cec-a3db-db24cffa9abd.gif" width="300" />
+<img src="https://user-images.githubusercontent.com/17527776/194708195-a4a55cb2-f49c-4cec-a3db-db24cffa9abd.gif" width="400" />
 ---
 
 ### 📫 Let's Connect
