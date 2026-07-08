@@ -2,8 +2,6 @@
 
 I’m a developer and problem-solver with a background in **Physics & CS** and a career path that spans from the trading floors of Wall Street to solar energy for rural farmers. I love building things that are either highly technical, socially impactful, or just plain fun.
 
-[**Explore my Portfolio ↗️**](https://www.addypandey.com)
-
 ---
 
 ### 🛠️ The Journey So Far
@@ -17,14 +15,12 @@ I’m a developer and problem-solver with a background in **Physics & CS** and a
 
 ---
 
-### 🕹️ Fun & Experimental Repos
-
-I like to push the boundaries of how we interact with software. Here are some of my favorite side quests:
+### 🕹️ FunStuff
 
 * **[Pokemon Showdown Voice Controller](https://github.com/AdityaPandey0901/PokemonShowdownVoice)** – Controlling showdown battles with just my voice.
-* **[Cosmos](https://space.atticusassociates.com/)** – Exploring Three.js with a bunch of physics/space.
-* **[Living Tree](https://nature.atticusassociates.com/)** – Another Three.js experiment.
-* **[Wordle Bot](https://github.com/AdityaPandey0901)** – Because sometimes the daily puzzle needs an algorithmic touch.
+* **[Cosmos](https://space.atticusassociates.com/)** – Rendering 1M Particles with a fun rocket.
+* **[Living Tree](https://nature.atticusassociates.com/)** – Tree reacting to NYC weather.
+* **[Wordle Bot](https://github.com/AdityaPandey0901)** – Best result: 3.1 guesses per word with 100% accuracy.
   
 ---
 ### 🇼 Here's Worldle Bot incase you're bored
